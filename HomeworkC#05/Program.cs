@@ -11,9 +11,9 @@
 
 // Console.Write("Введите число: ");
 // int number = Convert.ToInt32(Console.ReadLine());
-// if (number > 10000 && number < 100000) Console.WriteLine(number / 100 % 10);
-// if (number > 1000 && number < 10000) Console.WriteLine(number / 10 % 10);
-// if (number > 100 && number < 1000) Console.WriteLine(number % 10);
+// if (number >= 10000 && number < 100000) Console.WriteLine(number / 100 % 10);
+// if (number >= 1000 && number < 10000) Console.WriteLine(number / 10 % 10);
+// if (number >= 100 && number < 1000) Console.WriteLine(number % 10);
 // if (number < 100) Console.WriteLine("Третьей цифры нет");
 
 
