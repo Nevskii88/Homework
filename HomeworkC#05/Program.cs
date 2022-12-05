@@ -21,5 +21,5 @@
 
 // Console.Write("Введите цифру дня недели: ");
 // int number = Convert.ToInt32(Console.ReadLine());
-// if (number == 1 | number == 2 | number == 3 | number ==4 | number == 5) Console.Write (number + " - Не выходной");
+// if (number == 1 | number == 2 | number == 3 | number == 4 | number == 5) Console.Write (number + " - Не выходной");
 // if (number == 6 | number == 7) Console.Write ( number + " - Выходной");
